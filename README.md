@@ -21,13 +21,13 @@
 <!-- Connect with Me Section -->
 <p align="center" display="flex" gap="5px">
   <a href="">
-    <img align="center" src="https://img.shields.io/badge/Twitter-000000.svg?logo=x&logoColor=white" width="32px" height="28px" alt="Twitter" />
+    <img align="center" src="https://img.shields.io/badge/Twitter-000000.svg?logo=x&logoColor=white" height="28px" alt="Twitter" />
   </a>
   <a href="">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077b7.svg?logo=linkedin&logoColor=white" width="32px" height="28px" alt="LinkedIn" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077b7.svg?logo=linkedin&logoColor=white"  height="28px" alt="LinkedIn" />
   </a>
   <a href="">
-    <img align="center" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white" width="32px" height="28px" alt="Email" />
+    <img align="center" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white"  height="28px" alt="Email" />
   </a>
 </p>
 
