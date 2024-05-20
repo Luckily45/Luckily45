@@ -11,8 +11,6 @@
     <li>and pretty intersted in teach & anime</li>
     <li>🌱 I’m currently learning about <b>Web Technologies,Quantum Computing</b>.</li>
     <li>💬 Ask me about <b>web projects</b>.</li>
-    <li>✉️ You can contact me at <a href="mailto:dilkhush_raj@outlook.com"><b>dilkhush_raj@outlook.com</b></a>.</li>
-    <li>👨‍💻 All of my projects are available at <a href="https://dilkhush.vercel.app"><b>dilkhush.vercel.app</b></a>.</li>
   </ul>
 </p>
 
@@ -22,14 +20,14 @@
 
 <!-- Connect with Me Section -->
 <p align="center">
-  <a href="https://x.com/dilkhush_codes">
-    <img align="center" src="https://img.shields.io/badge/Twitter-000000.svg?logo=x&logoColor=white" width="32px" alt="Twitter" />
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Twitter-000000.svg?logo=x&logoColor=white" width="32px" height="16px" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/dilkhush-raj">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077b7.svg?logo=linkedin&logoColor=white" width="32px" alt="LinkedIn" />
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077b7.svg?logo=linkedin&logoColor=white" width="32px" height="16px" alt="LinkedIn" />
   </a>
-  <a href="mailto:dilkhush_raj@outlook.com">
-    <img align="center" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white" width="32px" alt="Email" />
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white" width="32px" height="16px" alt="Email" />
   </a>
 </p>
 
