@@ -22,13 +22,13 @@
 <!-- Connect with Me Section -->
 <p align="center">
   <a href="https://github.com/Luckily45">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px" alt="GitHub" />
+    <img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" width="32px" alt="GitHub" />
   </a>
   <a href="mailto:kumarsinghamit904@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img align="center" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white" width="32px" alt="Gmail" />
   </a>
   <a href="mailto:okami8542@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img align="center" src="https://img.shields.io/badge/Email-c14438.svg?logo=gmail&logoColor=white" width="32px" alt="Gmail" />
   </a>
 </p>
 
@@ -38,19 +38,20 @@
 
 <!-- Tech Stack Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN-123456?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MERN-123456?style=for-the-badge&logo=mongodb&logoColor=white" style="height: 28px;" alt="MERN" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" style="height: 28px;" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="height: 28px;" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="height: 28px;" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="height: 28px;" alt="Python" />
 </p>
 
 <hr>
 
-<h3 align="center">👨💻 GITHUB STATS:</h3>
+<h3 align="center">☕ SUPPORT ME:</h3>
 
-<!-- GitHub Stats Section -->
+<!-- Support Me Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luckily45&count_private=true&theme=light" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Luckily45&theme=dark&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="GitHub Streak Stats" />
+  <a href="https://www.buymeacoffee.com/amit" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+  </a>
 </p>
