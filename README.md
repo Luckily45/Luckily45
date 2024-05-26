@@ -66,6 +66,4 @@
   <a href="https://buymeacoffee.com/okami85426"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
 
-<p align="center">
-  <small>Proudly created with GPRM ( https://gprm.itsvg.in )</small>
-</p>
+
