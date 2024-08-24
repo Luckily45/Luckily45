@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OkamiSan45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luckily45&theme=tokyonight&hide_border=false"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkmaiSan45&theme=tokyonight&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkamiSan45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
