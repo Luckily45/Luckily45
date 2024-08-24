@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OkamiSan45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkmaiSan45&theme=tokyonight&hide_border=false"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkamiSan45&theme=tokyonight&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkamiSan45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
@@ -55,13 +55,13 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=OkmaiSan45&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=OkamiSan45&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=OkmaiSan45&icon=8&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=OkamiSan45&icon=8&color=0"/>
 </p>
 
 ## 💰 You can help me by Donating
