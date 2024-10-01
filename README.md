@@ -1,6 +1,6 @@
 ## 💫 About Me:
 <p align="center">
-  I'm pursuing a B.Tech in Computer Science from Japan.<br>
+  I'm pursuing a B.Tech in Computer Science.<br>
   Passionate about tech & anime.<br>
   🌱 Currently learning Web Technologies and Quantum Computing.<br>
   💬 Feel free to ask me about web projects.
